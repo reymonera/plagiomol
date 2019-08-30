@@ -1,3 +1,4 @@
+#PlagioMol -- Para edición de tabs en archivos pdb
 # esto lee los archivos y separa las líneas en datos
 #si quieres pasar una línea del archivo A al archivo B
 with open('2hyy_flex1.pdb', 'r') as file: #XXXout.txt sería el archivo B
